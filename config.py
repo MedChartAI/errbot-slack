@@ -62,5 +62,5 @@ BOT_LOG_LEVEL = logging.INFO
 #
 # Unix-style glob patterns are supported, so 'gbin@localhost'
 # would be considered an admin if setting '*@localhost'.
-BOT_ADMINS = ('@btotharye',)
-BOT_ALT_PREFIXES = ('@medchartai',)
+BOT_ADMINS = ('@brian',)
+BOT_ALT_PREFIXES = ('@medchartbot',)
