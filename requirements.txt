@@ -1,2 +1,5 @@
 errbot
 -r ./plugins/requirements.txt
+websockets
+asyncio
+boto3
